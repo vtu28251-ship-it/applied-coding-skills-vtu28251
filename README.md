@@ -164,4 +164,20 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu28251-ship-it/applied-coding-skills-vtu28251/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu28251-ship-it/applied-coding-skills-vtu28251/tree/master/0946-validate-stack-sequences) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vtu28251-ship-it/applied-coding-skills-vtu28251/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vtu28251-ship-it/applied-coding-skills-vtu28251/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vtu28251-ship-it/applied-coding-skills-vtu28251/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/vtu28251-ship-it/applied-coding-skills-vtu28251/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
